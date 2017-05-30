@@ -1,0 +1,34 @@
+body {
+	font-family: arial;
+	margin: 0;
+}
+
+
+header{
+	background black;
+	color: white;
+	padding: 15px 15px 0 15px;
+}
+
+header h1 {
+	margin: 0;
+	display: inline;
+}
+
+nav ul {
+	margin: 0;
+	display: inline;
+}
+
+nav ul li {
+	background: black
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+}
+
+nav ul li {
+	color: white;
+}
+
